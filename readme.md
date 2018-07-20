@@ -2,8 +2,6 @@
 
 ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
 
-## This is a h2
-
-### this is a h3
-
-#### this is a #4
+## Description
+#### This project has been created as part of my Code Institute Fullstack Web Developer program
+###### This course covers topics such as GIT, GITHUB, HTML, CSS and much mmuch more. 
